@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "resolveJsonModule": true,
+      "noImplicitAny": false,
+      "module": "commonjs",
+      "noEmitOnError": true,
+      "removeComments": false,
+      "sourceMap": true,
+      "target": "ES6",
+      "jsx": "react",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports":true,
+      "experimentalDecorators": true,
+    },
+    "exclude": [
+        "node_modules"
+      ],
+      "files": [
+        "src/app.tsx"
+      ]
+  }

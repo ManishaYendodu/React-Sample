@@ -1,0 +1,99 @@
+{
+  "vehicles": [
+    {
+      "model": "Jumper J-1",
+      "tagline": "Commuting Convenience",
+      "modelYear": "2018",
+      "thumbnail": "/images/thumbnails/jeep.png",
+      "carouselImage": "/images/carousel/bmw.jpg",
+      "altText": "2018 Jumper J-1",
+      "caption": "2018 Jumper J-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper quam eu velit commodo sagittis. Nam at massa finibus, placerat nulla ac, aliquam mauris. Aenean a libero id odio molestie consectetur id vitae felis. Curabitur vitae lectus consequat, vestibulum orci ut, pulvinar dui. Curabitur cursus cursus tortor gravida tempus. Phasellus eget sagittis lorem. Integer elementum, diam vel sagittis tincidunt, arcu velit sollicitudin mi, eu molestie purus nisl in nulla. Fusce volutpat metus ut metus rhoncus aliquam.",
+      "detailKey": "jumper",
+      "msrp": 36000
+    },
+    {
+      "model": "Spidi GT",
+      "tagline": "Your Ultimate Getaway Car",
+      "modelYear": "2018",
+      "thumbnail": "/images/thumbnails/car.png",
+      "carouselImage": "/images/carousel/ford.jpg",
+      "altText": "2018 Spidi - Your Ultimate Getaway Car",
+      "caption": "2018 Spidi",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper quam eu velit commodo sagittis. Nam at massa finibus, placerat nulla ac, aliquam mauris. Aenean a libero id odio molestie consectetur id vitae felis. Curabitur vitae lectus consequat, vestibulum orci ut, pulvinar dui. Curabitur cursus cursus tortor gravida tempus. Phasellus eget sagittis lorem. Integer elementum, diam vel sagittis tincidunt, arcu velit sollicitudin mi, eu molestie purus nisl in nulla. Fusce volutpat metus ut metus rhoncus aliquam.",
+      "detailKey": "spidi",
+      "msrp": 42000
+    },
+    {
+      "model": "AirBike",
+      "tagline": "New Perspective on Fun",
+      "modelYear": "2018",
+      "thumbnail": "/images/thumbnails/motorcycle.png",
+      "carouselImage": "/images/carousel/truck.jpg",
+      "altText": "2018 AirBike",
+      "caption": "2018 AirBike",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper quam eu velit commodo sagittis. Nam at massa finibus, placerat nulla ac, aliquam mauris. Aenean a libero id odio molestie consectetur id vitae felis. Curabitur vitae lectus consequat, vestibulum orci ut, pulvinar dui. Curabitur cursus cursus tortor gravida tempus. Phasellus eget sagittis lorem. Integer elementum, diam vel sagittis tincidunt, arcu velit sollicitudin mi, eu molestie purus nisl in nulla. Fusce volutpat metus ut metus rhoncus aliquam.",
+      "detailKey": "air-bike",
+      "msrp": 18500
+    },
+    {
+      "model": "Mercury",
+      "tagline": "Professional Grade Affordable Fleets.",
+      "modelYear": "2018",
+      "thumbnail": "/images/thumbnails/truck1.jpg",
+      "carouselImage": "/images/carousel/canada.jpg",
+      "altText": "Mercury Spacefaring Commercial Transport",
+      "caption": "Mercury Spacefaring Commercial Transport",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper quam eu velit commodo sagittis. Nam at massa finibus, placerat nulla ac, aliquam mauris. Aenean a libero id odio molestie consectetur id vitae felis. Curabitur vitae lectus consequat, vestibulum orci ut, pulvinar dui. Curabitur cursus cursus tortor gravida tempus. Phasellus eget sagittis lorem. Integer elementum, diam vel sagittis tincidunt, arcu velit sollicitudin mi, eu molestie purus nisl in nulla. Fusce volutpat metus ut metus rhoncus aliquam.",
+      "detailKey": "mercury",
+      "msrp": 167000
+    }
+  ],
+  "dealerships": [
+    {
+      "dealershipName": "Slick Willy's Flying Cars",
+      "address": "banglore",
+      "phone": "9728036394"
+    },
+    {
+      "dealershipName": "Dewey, Cheatham, &amp; Howe Auto Sales",
+      "address": "india",
+      "phone": "9728036357"
+    },
+    {
+      "dealershipName": "Ima Crooke Flying Car Sales",
+      "address": "canada",
+      "phone": "7928036394"
+    }
+  ],
+  "mailingList": [
+    {
+      "customerName": "Bruce Van Horn",
+      "email": "actual@contentfour.com",
+      "budget": "500000",
+      "phone": "9728036394",
+      "id": 1
+    },
+    {
+      "customerName": "Karina Van Horn",
+      "email": "test@test.com",
+      "budget": "50001",
+      "phone": "666-2345",
+      "id": 2
+    },
+    {
+      "customerName": "test",
+      "email": "test@test.com",
+      "budget": "50000",
+      "phone": "5552345",
+      "id": 3
+    },
+    {
+      "customerName": "poornima",
+      "email": "pshetty@chatsoft.com",
+      "phone": "7890875",
+      "budget": "9000",
+      "id": 4
+    }
+  ]
+}
